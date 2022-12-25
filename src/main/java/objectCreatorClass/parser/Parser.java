@@ -41,6 +41,7 @@ public class Parser {
         return null;
     }
 
+
     private Instant parseInstant(Field field) {
         String timeFormat;
         propsName = properties.containsKey(field.getName()) ? field.getName() : property.timeProps();
