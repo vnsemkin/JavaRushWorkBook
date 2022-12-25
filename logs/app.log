@@ -1,0 +1,87 @@
+2022-12-18 16:54:36,730 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 16:54:36,732 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 16:54:36,732 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 16:54:51,588 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 16:54:51,589 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 16:54:51,589 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 16:54:57,617 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 16:54:57,618 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 16:54:57,618 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 17:36:12,190 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 17:36:12,191 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 17:36:12,191 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:04:52,649 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:04:52,650 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:04:52,650 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:04:56,357 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:04:56,358 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:04:56,358 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:04:59,094 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:04:59,095 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:04:59,095 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:05:26,143 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:05:26,144 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:05:26,144 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:05:39,311 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:05:39,313 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:05:39,313 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:05:55,447 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:05:55,448 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:05:55,448 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:06:30,096 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:06:30,097 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:06:30,098 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:30:42,729 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:30:42,730 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:30:42,730 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:32:46,406 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:32:46,407 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:32:46,407 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:33:30,750 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:33:30,751 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:33:30,751 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:33:57,611 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:33:57,612 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:33:57,612 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 19:34:13,958 TRACE [main] calculator.Calculator (Calculator.java:11) - Value a 5, value b 5
+2022-12-18 19:34:13,960 INFO  [main] calculator.Calculator (Calculator.java:12) - Info: a=5 b=5
+2022-12-18 19:34:13,960 TRACE [main] calculator.Calculator (Calculator.java:21) - a10 minus b5 result 5
+2022-12-18 20:09:37,547 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-18 20:09:37,549 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-18 20:09:37,549 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-18 23:26:35,816 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-18 23:26:35,817 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-18 23:26:35,817 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-18 23:29:15,995 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-18 23:29:15,997 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-18 23:29:15,997 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-18 23:31:27,321 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-18 23:31:27,322 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-18 23:31:27,322 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-18 23:44:43,131 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-18 23:44:43,132 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-18 23:44:43,132 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-19 06:43:51,607 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-19 06:43:51,610 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-19 06:43:51,610 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-19 06:44:03,568 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-19 06:44:03,570 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-19 06:44:03,570 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-19 06:44:45,845 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-19 06:44:45,847 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-19 06:44:45,847 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-19 06:45:01,321 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-19 06:45:01,322 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-19 06:45:01,322 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-19 08:51:53,258 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-19 08:51:53,261 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-19 08:51:53,261 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-19 08:51:55,733 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-19 08:51:55,735 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-19 08:51:55,735 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-23 16:49:40,996 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-23 16:49:40,998 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-23 16:49:40,998 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
+2022-12-23 16:50:50,056 TRACE [main] calculator.Calculator (Calculator.java:12) - Value a 5, value b 5
+2022-12-23 16:50:50,057 INFO  [main] calculator.Calculator (Calculator.java:13) - Info: a=5 b=5
+2022-12-23 16:50:50,058 TRACE [main] calculator.Calculator (Calculator.java:22) - a10 minus b5 result 5
